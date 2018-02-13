@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "967612277793",
+    "firebase_url": "https://twechyslap.firebaseio.com",
+    "project_id": "twechyslap",
+    "storage_bucket": "twechyslap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967612277793:android:c82010dc775e0739",
+        "android_client_info": {
+          "package_name": "com.programmic.twechy.githublap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967612277793-iap7tjf73v3mrs3qiuiitd9d3aq5ccap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programmic.twechy.githublap",
+            "certificate_hash": "40351b3c1256c90c7359a5b5d23eaa1d6e6065fe"
+          }
+        },
+        {
+          "client_id": "967612277793-j67tb5ufgckrkudhh530e2muo3af7s7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZsA9OeGyYRJO-1EaesZtn7qI_sMBaqMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967612277793-j67tb5ufgckrkudhh530e2muo3af7s7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

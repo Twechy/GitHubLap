@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/bg_screen1</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="SearchView">
+        <item name="floatingSearch_backgroundColor">
+            @color/colorPrimary
+        </item>
+        <item name="floatingSearch_viewSearchInputTextColor">
+            @android:color/white
+        </item>
+        <item name="floatingSearch_viewSuggestionItemTextColor">
+            @android:color/white
+        </item>
+        <item name="floatingSearch_hintTextColor">
+            @android:color/white
+        </item>
+        <item name="floatingSearch_dividerColor">
+            @android:color/white
+        </item>
+        <item name="floatingSearch_clearBtnColor">
+            @android:color/white
+        </item>
+        <item name="floatingSearch_leftActionColor">
+            @android:color/white
+        </item>
+        <item name="floatingSearch_menuItemIconColor">
+            @android:color/white
+        </item>
+        <item name="floatingSearch_suggestionRightIconColor">
+            @android:color/white
+        </item>
+        <item name="floatingSearch_actionMenuOverflowColor">
+            @android:color/white
+        </item>
+    </style>
+
+</resources>
